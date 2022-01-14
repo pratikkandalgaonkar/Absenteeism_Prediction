@@ -8,10 +8,10 @@
 
 4.  The predictions made are based on certain employee characteristics and behaviour patterns This information will help us solve various problems the employee might be facing, which is reflecting poorly through their time away during working hours, so that we can try andh help them as much as we can from the organisation, and improve the work environment, So better working environment would result in better output from employees, and we can improve our productivity throughout the organisation.
 
-**Key Achievements: Developed a Logistic Regression model with test accuracy of 0.73 
+**Key Achievements: Developed a Logistic Regression model with test accuracy of 0.73**
 
 
-**The Files in this Repository - 
+**The Files in this Repository -**
 
 i. Absenteeism-data.csv = The Original Data file which was used before preprocessing the data for Analysis
 
