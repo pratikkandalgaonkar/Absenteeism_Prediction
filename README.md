@@ -1,4 +1,4 @@
-# Absenteeism_Prediction
+# Absenteeism Prediction
 
 1.  This Machine Learning project is developed to predict Absenteeism of Employee based on certain characteristics provided to us through data
 
